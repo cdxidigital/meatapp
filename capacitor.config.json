@@ -1,0 +1,9 @@
+{
+  "appId": "app.meat.nearby",
+  "appName": "MEAT",
+  "webDir": "mobile/www",
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "https"
+  }
+}

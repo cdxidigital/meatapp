@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MEAT</string>
+    <string name="title_activity_main">MEAT</string>
+    <string name="package_name">app.meat.nearby</string>
+    <string name="custom_url_scheme">app.meat.nearby</string>
+</resources>
